@@ -1,0 +1,2 @@
+# WWW.MAISTUDY.COM
+MAI study app
